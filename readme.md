@@ -9,11 +9,11 @@
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">WD-BAR-FinalProject</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+A website for a fancy bar business.
 </div>
 
 <br />
@@ -25,6 +25,9 @@
 ---
 
 <br />
+
+[![wakatime](https://wakatime.com/badge/user/cf0d05fd-fcbd-49a7-af60-dba7c540aa56/project/e52637c4-efc2-418b-a30d-46e18a0bdcfb.svg)](https://wakatime.com/badge/user/cf0d05fd-fcbd-49a7-af60-dba7c540aa56/project/e52637c4-efc2-418b-a30d-46e18a0bdcfb)
+
 <br />
 
 <!-- TODO: If you want to add more layers for your readme -->
