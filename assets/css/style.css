@@ -1,0 +1,18 @@
+.background {
+    background-image: url(../img/barPicture.png);
+  }
+
+  .container-fluid{
+    padding:1rem;
+    background-color:#4d1108;
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 20;
+
+  }
+  a.navbar-brand, a.nav-link {
+    color: white;
+  }
