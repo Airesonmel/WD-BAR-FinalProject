@@ -1,0 +1,49 @@
+body {
+    font-family: 'Press Start 2P', cursive;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    background-color: #000; /* Default black background for Undertale theme */
+    overflow-x: hidden; /* Prevent horizontal scrolling caused by large elements */
+}
+
+/* Products Section: Glow Effect */
+.product-image {
+    width: 100%;
+    height: auto;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.product-image:hover {
+    box-shadow: 0 0 20px 5px #ff6b6b;
+    transform: scale(1.05);
+}
+
+/* General Hero Section */
+.hero {
+    text-align: center;
+    color: #fff;
+    background: url('../images/undertale_background.jpg') center center / cover no-repeat;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+}
+
+.hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.hero p {
+    font-size: 1.2rem;
+}
+
+/* Footer */
+footer a:hover {
+    text-decoration: underline;
+}

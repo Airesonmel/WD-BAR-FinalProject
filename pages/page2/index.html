@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products - Grillby's</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <style>
+        .hero {
+            height: 60vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: url('../../assets/img/barBackground.jpg') center center / cover no-repeat;
+        }
+
+        .hero h1 {
+            font-size: 2.5rem;
+            text-align: center;
+            color: white;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+        }
+
+        .products-section {
+            padding: 2rem;
+        }
+
+        .product-card {
+            margin: 1rem 0;
+            transition: transform 0.3s ease;
+        }
+
+        .product-card img {
+            border-radius: 10px;
+            transition: box-shadow 0.3s ease, transform 0.3s ease;
+        }
+
+        .product-card img:hover {
+            box-shadow: 0 0 15px 5px #ff6b6b;
+            transform: scale(1.05);
+            cursor: pointer;
+        }
+
+        .product-card:hover {
+            transform: translateY(-10px);
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header class="navbar navbar-expand-lg navbar-dark bg-dark sticky-header">
+        <div class="container">
+            <a class="navbar-brand" href="../../index.html">
+                <img src="../../assets/img/barLogo.png" alt="Grillby's Logo" width="50" height="50">
+                Grillby's
+            </a>
+            <nav>
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a href="../../index.html" class="nav-link">Home</a></li>
+                    <li class="nav-item"><a href="../page1/index.html" class="nav-link">About Us</a></li>
+                    <li class="nav-item"><a href="index.html" class="nav-link active">Products</a></li>
+                    <li class="nav-item"><a href="../page3/index.html" class="nav-link">Contact Us</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <div class="hero">
+            <h1>Our Beers</h1>
+        </div>
+
+        <section class="products-section text-center">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 product-card">
+                        <a href="https://www.sapporobeer.com/" target="_blank">
+                            <img src="../../assets/img/barProduct1.png" alt="Sapporo" class="img-fluid">
+                        </a>
+                        <h3>Sapporo</h3>
+                        <p>A crisp, refreshing beer perfect for any occasion.</p>
+                    </div>
+                    <div class="col-md-4 product-card">
+                        <a href="https://www.guinness.com/" target="_blank">
+                            <img src="../../assets/img/barProduct2.png" alt="Guinness" class="img-fluid">
+                        </a>
+                        <h3>Guinness</h3>
+                        <p>Rich, creamy, and full of flavor. A classic stout.</p>
+                    </div>
+                    <div class="col-md-4 product-card">
+                        <a href="https://www.heineken.com/" target="_blank">
+                            <img src="../../assets/img/barProduct3.png" alt="Heineken" class="img-fluid">
+                        </a>
+                        <h3>Heineken</h3>
+                        <p>A smooth, premium lager brewed for great moments.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="bg-dark text-white text-center p-3">
+        <p>&copy; 2024 Grillby's Bar | <a href="../page3/index.html" class="text-white">Contact Us</a></p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
