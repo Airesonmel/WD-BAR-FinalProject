@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-A website for a the fictional Bar "Grillby's" from the hit game Undertale.
+A website for the fictional Bar "Grillby's" from the hit game Undertale.
 </div>
 
 <br />
@@ -65,7 +65,7 @@ Description of the project in details.
 Guiding Question:
 - What is the project? <b> <i> The project is a Bar Themed website. </i> </b>
 - Whats the purpose? <b> <i> The purpose of this project is to create a functioning website with the use of CSS and Bootstrap. </i> </b>
-- What are key components? <b> <i> The Landing page, About Me page, Products page, Contacts page. </i> </b>
+- What are key components? <b> <i> The Landing page, About Me page, Products page, Contacts page. It is a Multipage Website with Bootstrap elements, and it is responsive for Mobile View. </i> </b>
 - What technology used and how it is used? <b> <i> Through the use of VSCode, HTML, CSS, and Bootstrap. Through the use of VSCode and its plugins it helps for convenient and easy coding for HTML and CSS. I utilized Bootstrap to get a responsive website by using the number of codes that can help me structure my website like navbars. </i> </b>
 
 ### Key Components
