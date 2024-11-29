@@ -120,4 +120,9 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Grillby's Wiki | Information  about where the Bar "Grillby's" came from. | https://undertale.fandom.com/wiki/Grillby%27s |
+| Grillby's Character Image | The source where I got the image of the character "Grillby". | https://www.hiclipart.com/free-transparent-background-png-clipart-vuruo |
+| Grillby's Backgrounds | Source from one of the backgrounds. | https://www.deviantart.com/latyprod/art/Undertale-Snowdin-3d-648688720 |
+| Grillby's Product 1 | Source from one of the Products. | https://kentstreetcellars.com.au/products/sapporo-premium-beer-6-pack |
+| Grillby's Product 2 | Source from one of the Products. | https://asiabrewery.com/products/s21-heineken-beer-330ml-x-24-bottles |
+| Grillby's Product 3 | Source from one of the Products. | https://www.guinness.com/en |
