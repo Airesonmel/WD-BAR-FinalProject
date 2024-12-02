@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="/assets/img/barLogo.png" alt="Nyebe" width="130" height="130">
+    <img src="assets/img/barLogo.png" alt="Grillby's" width="150" height="150">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">WD-BAR-FinalProject</h3>
@@ -20,7 +20,7 @@ A website for the fictional Bar "Grillby's" from the hit game Undertale.
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=Airesonmel/WD-BAR-FinalProject)
 
 ---
 
@@ -68,7 +68,6 @@ Guiding Question:
 - What are key components? <b> <i> The Landing page, About Me page, Products page, Contacts page. It is a Multipage Website with Bootstrap elements, and it is responsive for Mobile View. </i> </b>
 - What technology used and how it is used? <b> <i> Through the use of VSCode, HTML, CSS, and Bootstrap. Through the use of VSCode and its plugins it helps for convenient and easy coding for HTML and CSS. I utilized Bootstrap to get a responsive website by using the number of codes that can help me structure my website like navbars. </i> </b>
 
-
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
@@ -80,6 +79,7 @@ Guiding Question:
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Rules, Practices and Principles
